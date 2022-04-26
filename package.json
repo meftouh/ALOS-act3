@@ -1,0 +1,47 @@
+{
+  "name": "api_tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "mocha  "
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-rate-limit": "^6.4.0",
+    "express-routes-versioning": "^1.0.1",
+    "express-validator": "^6.14.0",
+    "express-version-route": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "joi": "^14.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "passport": "^0.5.2",
+    "passport-jwt": "^4.0.0",
+    "totoro-node": "^2.0.5",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2",
+    "nodemon": "^2.0.15"
+  },
+ 
+  "keywords": [
+    "node.js",
+    "api versions",
+    "express router",
+    "version manager",
+    "api version manager",
+    "api versioning"
+  ]
+ 
+}
