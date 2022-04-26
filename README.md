@@ -30,13 +30,14 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 
 ## v2 : 
     
-  ## Authentification (login,register) (jwt authentication)
+  ## Authentification (login,register) (jwt authentication et Décryptage du mot de passe de l'utilisateur (bcrypt package),ACCESS_TOKEN_SECRET 
+)
   
    ### Login Et Register (Authentification avec token) :
       
   ![](images/Capture%20d’écran%202022-04-26%20à%2018.39.05.png)
 
-   ### Login et Register (La vérification de e-mails existant): 
+   ### Login et Register (La vérification de e-mail existant): 
    
    ![](images/Capture%20d’écran%202022-04-26%20à%2018.58.23.png)
 
