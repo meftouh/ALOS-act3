@@ -30,7 +30,9 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 
 ## v2 : 
     
-  ## Authentification (login,register) (jwt authentication et Décryptage du mot de passe de l'utilisateur (bcrypt package),ACCESS_TOKEN_SECRET ,Passport js strategies
+  ## Authentification (login,register)
+  
+  (jwt authentication et décryptage du mot de passe de l'utilisateur avec (bcrypt package),ACCESS_TOKEN_SECRET ,Passport js strategies
 )
   
    ### Login Et Register (Authentification avec token) :
@@ -58,7 +60,12 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
   
   ### Utilisation : 
    
-   Passport strategy .
+   - Passport strategy .(authentication )
   
-   CRUD dans le file avec  FS (File System)(NPM)  .
-  
+   - CRUD dans le file avec  FS (File System)(NPM)  .
+   
+   - jsonwebtoken  (used to share security information between two parties ).
+   
+   - ACCESS_TOKEN_SECRET dans le file .env . (Access Secret Token)
+   
+   - jwt authentication et décryptage du mot de passe de l'utilisateur avec (bcrypt package).
