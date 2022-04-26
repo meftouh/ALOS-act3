@@ -43,7 +43,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
    ![](images/Capture%20d’écran%202022-04-26%20à%2018.58.23.png)
 
    
-  ### Profil de chaque utilisateur ( (modification (put) ,ajouter bio et photo de profil
+  ### Profil de chaque utilisateur ( (modification (put) ,ajouter bio et photo de profil)
    ![](images/Capture%20d’écran%202022-04-26%20à%2019.01.07.png)
 
   
