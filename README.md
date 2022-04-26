@@ -32,7 +32,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
     
   . Authentification (login,register) 
       ### Login :
-      ![](images/Capture%20d%E2%80%99e%CC%81cran%202022-04-26%20a%CC%80%2018.39.05.png)
+      ![](images/Capture%20d’écran%202022-04-26%20à%2018.39.05.png)
 
    ###Register:
    
