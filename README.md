@@ -30,7 +30,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 
 ## v2 : 
     
-  ## Authentification (login,register) (jwt authentication et Décryptage du mot de passe de l'utilisateur (bcrypt package),ACCESS_TOKEN_SECRET 
+  ## Authentification (login,register) (jwt authentication et Décryptage du mot de passe de l'utilisateur (bcrypt package),ACCESS_TOKEN_SECRET ,Passport js strategies
 )
   
    ### Login Et Register (Authentification avec token) :
