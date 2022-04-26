@@ -24,7 +24,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 
 ## On a deux versions v1 et v2:
 
-## v1 :        Pas de modification de la version 1
+## v1 :        Pas de modification dans la version 1
 
            https://github.com/meftouh/Alos_act2
 
