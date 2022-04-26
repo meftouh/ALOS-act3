@@ -32,7 +32,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
     
   ## Authentification (login,register) 
   
-   ### Login Et Register :
+   ### Login Et Register (Authentification avec token) :
       
   ![](images/Capture%20d’écran%202022-04-26%20à%2018.39.05.png)
 
