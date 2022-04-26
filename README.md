@@ -30,7 +30,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 
 ## v2 : 
     
-  . Authentification (login,register) 
+  ## Authentification (login,register) 
   
    ### Login Et Register :
       
