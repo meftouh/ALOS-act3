@@ -32,11 +32,11 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
     
   . Authentification (login,register) 
   
-   ### Login :
+   ### Login Et Register :
       
   ![](images/Capture%20d’écran%202022-04-26%20à%2018.39.05.png)
 
-   ### Register:
+   ### Login et Register (La vérification de e-mails existant): 
    
    ![](images/Capture%20d’écran%202022-04-26%20à%2018.58.23.png)
 
