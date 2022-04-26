@@ -59,7 +59,7 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
   
   ### Utilisation : 
    
-   - Passport strategy .(authentication )
+   - Passport strategy .
   
    - CRUD dans le file avec  FS (File System)(NPM)  .
    
