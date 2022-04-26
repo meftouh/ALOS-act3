@@ -31,16 +31,25 @@ Cela vous aiderait à prendre en charge plusieurs versions sans modifier l'URL d
 ## v2 : 
     
   . Authentification (login,register) 
-      ### Login :
+  
+      Login :
+      
       ![](images/Capture%20d’écran%202022-04-26%20à%2018.39.05.png)
 
-   ###Register:
+   Register:
    
+             ![](images/Capture%20d’écran%202022-04-26%20à%2018.58.23.png)
+
    
-  autorisation et  profil de chaque utilisateur et tous les annonces postées par le utilisateur . 
+  Autorisation et  profil de chaque utilisateur et tous les annonces postées par le utilisateur . 
   
+           ![]( images/Capture%20d’écran%202022-04-26%20à%2019.01.36.png)
+
 
   . Une nouvelle format de données (annonces_ventes)
+  
+             ![](images/Capture%20d’écran%202022-04-26%20à%2019.00.27.png)
+
   
   .  Utilisation : 
    
